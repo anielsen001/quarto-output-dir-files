@@ -1,0 +1,12 @@
+---
+title: demo
+---
+
+hello world
+
+```{python}
+from matplotlib import pylab as plt
+import numpy as np
+plt.figure()
+plt.plot(np.arange(1,10,10))
+```
